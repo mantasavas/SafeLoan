@@ -1,0 +1,61 @@
+[
+  {
+    "id" : "97806",
+    "cat" : ["book","hardcover"],
+    "name" : "The Lightning Thief",
+    "author" : "Rick Riordan",
+    "series_t" : "Percy Jackson and the Olympians",
+    "sequence_i" : 1,
+    "genre_s" : "fantasy",
+    "inStock" : true,
+    "prime_Price": 12.50,
+    "pages_i" : 384,
+    "publish_date" : "2006-08-09",
+    "short_summary": "The novel opens with The Man waking and checking on his sleeping son. The Man and The Boy are the two protagonists of “The Road” although neither are named. An apocalyptic event of some type has happened and the two have been on the road for at least a year. The Man and The Boy have to wear face masks even when they sleep. The man has had a dream that he and his son wandered into a cave and saw a blind, translucent creature. When dawn breaks, the two travelers investigate the area and find the land “Barren, silent, godless.” The man searches for signs of other humans but finds none."
+  }
+,
+  {
+    "id" : "9781",
+    "cat" : ["book","paperback"],
+    "name" : "The Sea of Monsters",
+    "author" : "Rick Riordan",
+    "series_t" : "Why It's the same Percy Jackson and the Olympians",
+    "sequence_i" : 2,
+    "genre_s" : "fantasy",
+    "inStock" : true,
+    "prime_Price": 6.49,
+    "pages_i" : 304,
+    "publish_date" : "2001-10-13",
+    "short_summary": "In Nigeria, there is a warrior clan called ibo, the head of which is named Okonkwo. Okonkwo has three wives and eight children and each wife has her own hut. Okonkwo also has his own hut called an obi. The clan is part of a network of nine connected villages. Okonkwo’s village is called Umuofia. When Okonkwo was a boy he brought pride to his village by beating a well known strong man in a wrestling contest. This recovered Okonkwo’s image, since his father was a known gambler and not a warrior."
+  }
+,
+  {
+    "id" : "9781",
+    "cat" : ["book","paperback"],
+    "name" : "Sophie's World : The Greek Philosophers",
+    "author" : "Jostein Gaarder",
+    "series_t" : "Percy Jackson and the Olympians Second Edition",
+    "sequence_i" : 1,
+    "genre_s" : "fantasy",
+    "inStock" : true,
+    "prime_Price": 3.07,
+    "pages_i" : 64,
+    "publish_date" : "1996-10-23",
+    "short_summary": "On Motes’ second night in town, he wanders past the storefronts at night, looking up at the stars . He stops in front of a salesman who is selling potato peelers and demonstrating their use live. The salesman speaks to the gathered crowd in a commanding voice. He asks for a volunteer and points to a young man named Enoch Emery."
+  }
+,
+  {
+    "id" : "9781",
+    "cat" : ["book","paperback"],
+    "name" : "Lucene in Action, Second Edition",
+    "author" : "Michael McCandless",
+    "series_t" : "Nomination Goes For Percy Jackson and the Olympians",
+    "sequence_i" : 1,
+    "genre_s" : "IT",
+    "inStock" : true,
+    "prime_Price": 30.50,
+    "pages_i" : 475,
+    "publish_date" : "2017-09-07",
+    "short_summary": "The book opens with the main character, a twenty-two year old man named Hazel Motes, sitting in a train car across from a strange woman. The woman attempts to make small talk with Motes, and points out his strange attire. He is wearing a new suit and a hat that is like a country preacher’s. Motes also has an army duffel bag at his feet. Motes ignores the woman but eventually admits that he is not going home. He is headed to Taulkinham, his hometown to do something that he has never done before."
+  }
+]

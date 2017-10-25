@@ -1,0 +1,19 @@
+[
+  {
+    "Name" : "Mantas",
+    "Surname" : "Savaniakas",
+    "Username" : "mantasavas",
+    "Password" : "fabijoniskes",
+    "Email" : "mantasavas@gmail.com",
+    "Age" : 12
+  }
+,
+  {
+    "Name" : "Jonas",
+    "Surname" : "Stanislovas",
+    "Username" : "stanjon",
+    "Password" : "stano",
+    "Email" : "stanislovas.jonas@gmail.com",
+    "Age" : 27
+  }
+]
